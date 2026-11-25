@@ -1,0 +1,17 @@
+# Visual Studio local cache and per-user settings
+.vs/
+*.vcxproj.user
+*.suo
+*.sln.docstates
+
+# Solution build output
+/x64/
+/Win32/
+/Debug/
+/Release/
+
+# Project build output (keep third-party architecture folders trackable)
+/CUDA_with_3DGS_Vulkan_ImGui/x64/
+/CUDA_with_3DGS_Vulkan_ImGui/Win32/
+/CUDA_with_3DGS_Vulkan_ImGui/Debug/
+/CUDA_with_3DGS_Vulkan_ImGui/Release/
